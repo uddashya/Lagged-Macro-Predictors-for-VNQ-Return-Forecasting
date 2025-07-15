@@ -1,4 +1,4 @@
-# 📈 Lagged Macro Predictors for VNQ Return Forecasting
+# Lagged Macro Predictors for VNQ Return Forecasting
 
 This project explores the predictive relationship between **lagged macroeconomic indicators** and the quarterly returns of **VNQ**, the Vanguard Real Estate ETF. Using **Lasso regression (LassoCV)** on time-lagged macro factors, we aim to forecast REIT performance and analyze signal quality.
 
@@ -23,7 +23,7 @@ Applies a σ-threshold trading overlay and Treasury allocation for capital prese
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 | Metric        | Best σ-Threshold | VNQ ETF |
 |---------------|-------------------|---------|
@@ -36,7 +36,7 @@ The predictive model achieves a correlation (R) of **0.53** between predicted an
 
 ---
 
-## 🛠️ Methods
+## Methods
 
 ###  Data Sourcing
 - **Macro Factors:** FRED & Yahoo Finance
