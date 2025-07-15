@@ -47,7 +47,7 @@ The predictive model achieves a correlation (R) of **0.53** between predicted an
 - Construction of a **Real Estate Premium (REP)** based on debt-to-equity splits
 
 ### Modelling
-- Expanding-window **LassoCV** regression
+- Expanding-window **RidgeCV** regression
 - Prediction evaluation: Correlation (R), RMSE
 
 ### Exploratory Strategy
