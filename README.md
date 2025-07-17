@@ -1,6 +1,6 @@
 # Lagged Macro Predictors for VNQ Return Forecasting
 
-This project explores the predictive relationship between **lagged macroeconomic indicators** and the quarterly returns of **VNQ**, the Vanguard Real Estate ETF. Using **Lasso regression (RidgeCV)** on time-lagged macro factors, we aim to forecast REIT performance and analyze signal quality.
+This project explores the predictive relationship between **lagged macroeconomic indicators** and the quarterly returns of **VNQ**, the Vanguard Real Estate ETF. Using **Ridge regression (RidgeCV)** on time-lagged macro factors, we aim to forecast REIT performance and analyze signal quality.
 
 While a simple threshold-based trading overlay is implemented for backtesting, the primary focus remains on **prediction accuracy and factor importance**.
 
